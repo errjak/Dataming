@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Penambangan Data
 
 Ini adalah website statis karya untuk tugas-tugas Mata Kuliah Penambangan Data
 
